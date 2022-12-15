@@ -1,0 +1,68 @@
+﻿@page "/"
+
+@using Microsoft.AspNetCore.Html
+
+<PageTitle>🌊️moogle!</PageTitle>
+
+<body>
+<button id="refreshbutton" type="default" class="btn btn-primary" @onclick="RunRefresh">refresh...</button>
+<h1 id="text">!moogle, <b><text id="one">m</text><text id="two">o</text><text id="three">o</text><text id="four">g</text><text id="five">l</text><text id="six">e</text><text id="seven">!</text></b></h1>
+
+<fieldset>
+<input @onkeydown="keyEnter" @onkeypress="keyEnter" @onkeyup="keyEnter" id="searchentry" class="p-1 my-4" @bind="query" placeholder="busque algo..." >
+
+<button id="buttonentry" type="default" class="btn btn-primary" @onclick="RunQuery">search...</button>
+</fieldset>
+
+@if (!string.IsNullOrEmpty(result.Suggestion)) {
+    <div class="suggestion">
+        <p id="text">¿Quisite decir <strong ><a id="enlacesugg" @onclick="RunSuggest" href="#">@result.Suggestion</a></strong>?</p>
+    </div>
+}
+
+<ol type="i" class="results">
+@foreach (var item in result.Items()) {
+    <div class="boxofresult">
+    <li>
+        <div class="item">
+            <p class="title"><a id="enlaceresult" href=@item.URL>@item.Title</a> score: @item.Score</p>
+            <p class="snippet">...@for(int i=0 ; i<@item.Snippet.Count; i++)
+                {
+                @if (Moogle.Normalize(@query,true,false).Split().ToList().Contains(@item.Snippet[i]))
+                {<b id="coincidence">«@item.Snippet[i]»</b>}
+                else {@item.Snippet[i]}
+                
+                @if(i<@item.Snippet.Count-1){@spc}
+                }...</p>
+                @* <p class="snippet">@item.Snippet</p> *@
+
+        </div>
+    </li>
+    </div>
+}
+</ol>
+</body>
+@code {
+    private string query = "";
+    private string spc = " ";
+    private string keyPressed = "";
+    private SearchResult result = new SearchResult();
+    private DatabaseItem Database=Moogle.StartRefresh();
+    private void RunQuery() {
+       result = Moogle.Query(query, Database);
+    }
+    private void keyEnter(KeyboardEventArgs args) {
+        
+        if (args.Key=="Enter"){
+             keyPressed=args.Key;
+             result = Moogle.Query(query, Database);
+        }
+    }
+    private void RunSuggest() {
+        query=result.Suggestion;
+       result = Moogle.Query(result.Suggestion, Database);      
+    }
+    private void RunRefresh() {
+       Database=Moogle.DatabaseRefresh();
+    }
+}

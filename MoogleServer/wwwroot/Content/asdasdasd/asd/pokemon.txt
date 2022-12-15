@@ -1,0 +1,405 @@
+Pokémon
+Ir a la navegación
+Ir a la búsqueda
+Para otros usos de este término, véase Pokémon (desambiguación).
+Pokémon
+ポケットモンスター
+International Pokémon logo.svg
+Logotipo de Pokémon.
+Creado por Satoshi Tajiri
+Ken Sugimori
+Game Freak
+Nintendo
+Trabajo original	Pocket Monsters Rojo y Verde (1996)
+Publicaciones impresas
+Cómic(s)	Manga de Pokémon
+Películas y televisión
+Película(s)	Lista de películas de Pokémon
+Series animadas	Anime de Pokémon
+Juegos
+Juego(s)	Pokémon Trading Card Game
+Videojuego(s)	Saga de videojuegos de Pokémon
+
+Pokémon (ポケモン Pokemon?) es una franquicia de medios que originalmente comenzó como un videojuego RPG, pero debido a su popularidad ha logrado expandirse a otros medios de entretenimiento como series de televisión, películas, juegos de cartas, ropa, entre otros, convirtiéndose en una marca que es reconocida en el mercado mundial. Las ventas de videojuegos hasta el 1 de diciembre de 2006 habían alcanzado una cantidad de 340 millones de ejemplares (incluyendo la venta de la versión Pikachu de la consola Nintendo 64),1​ logrando ocupar el segundo lugar de las sagas de videojuegos más vendidos de Nintendo.2​ La franquicia celebró su décimo aniversario el 27 de febrero de 2006.3​4​
+
+La saga de videojuegos es desarrollada por la compañía programadora de software japonesa Game Freak, con personajes creados por Satoshi Tajiri para la empresa de juguetes Creatures Inc., y a su vez distribuida por Nintendo. La misión en estos juegos es capturar y entrenar a los pokémon (criaturas cuya denominación da nombre al juego), que hasta la fecha alcanzan el número de 890. La posibilidad de intercambiarlos le hizo conseguir una popularidad que se plasmó en un éxito de ventas y la consiguiente aparición de una serie animada, películas y diverso merchandising como peluches, juguetes y cartas.
+
+La producción de los videojuegos, serie de anime y demás material para su distribución en occidente fue realizada en Estados Unidos por 4Kids Entertainment hasta noviembre de 2005, momento en que decidió no renovar su contrato con Pokémon USA (una subsidiaria de Pokémon Company). Actualmente esta supervisa todo lo referente al material de Pokémon en su distribución en occidente.5​
+Índice
+
+    1 Etimología
+    2 Historia
+    3 Concepto
+    4 Mecánica del juego
+        4.1 Entrenador Pokémon
+        4.2 Tipos de Pokémon
+        4.3 Pokémon inicial
+        4.4 Pokédex
+    5 Videojuegos
+        5.1 Primera generación
+        5.2 Segunda generación
+        5.3 Tercera generación
+        5.4 Spin-offs
+        5.5 Cuarta generación
+        5.6 Quinta generación
+        5.7 Sexta generación
+        5.8 Séptima generación
+        5.9 Octava generación
+        5.10 Novena generación
+    6 Medios relacionados
+        6.1 Anime
+        6.2 Pokémon Trading Card Game
+        6.3 Manga
+    7 Críticas y controversias
+        7.1 Moralidad
+        7.2 Salud
+        7.3 Monster in My Pocket
+    8 Impacto en la cultura popular
+    9 Véase también
+    10 Referencias
+    11 Bibliografía
+    12 Enlaces externos
+
+Etimología
+Automóvil Toyota decorado como Pikachu, presentado en la Exposición de Sasashima 2005.
+
+La palabra Pokémon es la contracción romanizada de la marca japonesa Pocket Monsters (ポケットモンスター Poketto Monsutā?, literalmente "monstruos de bolsillo"), como tales contracciones son muy comunes en Japón.6​
+
+En inglés, la palabra se escribe Pokémon con tilde en acento agudo, a pesar de que este signo no existe en el uso habitual de este idioma. Esto se debe a que al unir las palabras Pocket Monster se obtuvo Poke-Mon. El problema es que, según las normas del inglés, esto se pronunciaría como pouk mon. En muy pocos otros casos (como maté que se pronuncia /mátei/ y quiere decir mate) se puede poner en inglés un acento en la "e" para que esta se pronuncie, resultando así el nombre "Pokémon". En español se puede usar la transcripción rōmaji que prescinde del acento por razones ortográficas, si bien en el uso comercial habitualmente aparece usando tilde.
+
+Sobre la pronunciación de los hispanohablantes en el caso de Hispanoamérica, por el doblaje del anime, que suele ser más cercano al estadounidense, se pronuncia /pokemón/. En España se pronuncia /pokemon/ de con acento llano.
+
+El término Pokémon, además de referirse a la franquicia en sí, puede aludir colectivamente a las 807 especies ficticias que han aparecido en los diversos medios de la franquicia. Como marca registrada es invariable: los Pokémon. Como voz lexicalizada, ya escrita en minúscula y sin tilde, si nos atenemos a su pronunciación original, pluralizaría según la RAE en -es: los pokémones.7​ Sin embargo en los juegos pokémon es plural y singular.
+Historia
+Una historia animada de cómo Satoshi Tajiri llegó a concebir Pokémon
+
+Cuando el creador, Satoshi Tajiri, era joven, uno de sus pasatiempos favoritos era la recolección y colección de insectos.8​ Tajiri se dirigió a la ciudad de Tokio a estudiar, ya que su padre quería que fuese ingeniero. Sin embargo, a Tajiri no le agradaba la idea de estudiar y se dedicaba más a pasatiempos como los videojuegos. Pasó un tiempo y Tajiri llegó a trabajar como jugador de prueba de algunos juegos para revistas, junto a Ken Sugimori, con quien hizo una gran amistad. En 1989 crearon una revista llamada Game Freak.9​
+
+Con el éxito de la consola NES, los dos decidieron crear algo innovador para la consola, y Tajiri decidió hacer que Game Freak se convirtiera en una compañía. Comenzó a trabajar en un juego de rompecabezas llamado Mendel Palace (conocido en Japón como Quinty), el cual fue lanzado en 1989, obteniendo buen éxito, lo cual marcó el principio de la historia de la compañía.
+
+Al año siguiente, los dos habían decidido crear un juego para la consola Game Boy. Tajiri al ver el Game Link Cable, tuvo la idea de un juego en donde se pudiera transferir información de una Game Boy a otra. Influenciado por sagas como Final Fantasy y Dragon Quest, Tajiri asoció la idea de la metamorfosis. Tajiri creó un RPG en donde los monstruos podrían evolucionar y ser transportados de una consola portátil a otra.9​
+
+El proyecto fue enviado a Nintendo. Mientras que Tajiri era quien tenía la idea principal, Sugimori era el encargado de los diseños de los monstruos. Así mismo, recibieron consejos por parte de Shigeru Miyamoto (creador de Mario Bros.) para mejorar el juego, que en ese entonces recibía el nombre de Capsule Monster.9​
+
+La producción de este proyecto duró cinco años. En aquel tiempo, la consola Game Boy entró en declive por la escasez de nuevos juegos, debido a que la compañía Nintendo ya no tenía más ideas para la consola portátil. Por otro lado, Game Freak estuvo con carencia de acciones y recursos, por lo que su situación entró en jaque. Luego de esto, el proyecto de Tajiri fue renombrado como Pocket Monsters. En febrero de 1996 se lanzaron al mercado Pocket Monsters Aka and Midori ("Red" y "Green") Inicialmente el juego no tuvo éxito, pero al alcanzar un año, se había llegado a la marca de millón de copias.9​
+
+Al ver esto, Nintendo decidió enviar la serie a occidente. El nombre fue abreviado a Pokémon debido a que había una serie de Mattel conocida como Monster in My Pocket. Los juegos Pokémon Red y Blue se convirtieron en un éxito en los Estados Unidos, con más de 200.000 copias vendidas en la primera semana.
+
+El eslogan de la serie en Japón fue ¡Vamos a conseguir Pokémon! (ポケモンGETだぜ! Pokemon Getto Daze!?), el cual se hizo famoso. En los Estados Unidos, esta frase es conocida como “Gotta Catch'em All!”, en Hispanoamérica como “¡Atrápalos ya!” y en España; "¡Hazte con todos!"
+Concepto
+Un avión Boeing 747 japonés decorado con dibujos de Pokémon.
+
+Los Pokémon son una clase de criaturas inspiradas en animales reales, insectos, objetos, plantas o criaturas mitológicas con un sistema de evolución lamarckiano. Los jugadores toman el papel Entrenadores Pokémon y tienen tres objetivos generales: completar la Pokédex mediante la recopilación de todas las especies de Pokémon disponibles que se encuentran, entrenar un equipo de Pokémon poderosos de aquellos que han atrapado para competir contra otros entrenadores. El objetivo final del juego es llegar a ganar la Liga Pokémon y convertirse en el campeón regional. La temática de coleccionar, entrenar y luchar están presentes en casi todas las versiones de la franquicia Pokémon, incluidos los videojuegos, las series de anime y manga, y el juego de cartas coleccionables Pokémon.
+
+En la saga principal, el jugador emprenderá un viaje en el que deberá recorrer una región específica del mundo Pokémon. En determinadas ciudades existen una serie de poderosos entrenadores, conocidos como Líderes de Gimnasio, que el entrenador debe derrotar para obtener las medallas de gimnasio y poder progresar. Una vez que se recogen todas las medallas de la región, el entrenador es elegible para desafiar la Liga Pokémon de la región, donde le esperan cuatro de los mejores entrenadores a los que se deberá enfrentar para obtener el título de Campeón.
+
+La saga también tiene arcos argumentales secundarios: En la mayoría de títulos existe un equipo antagonista, una banda cuyos planes están relacionados con el tráfico, la explotación o el maltrato de Pokémon y que el jugador deberá derrotar. Muchos títulos también implican que el jugador pueda desentrañar misterios sobre la existencia de Pokémon legendarios o míticos.
+Mecánica del juego
+Entrenador Pokémon
+Artículo principal: Entrenador Pokémon
+
+A los usuarios de los videojuegos se los denomina Entrenador Pokémon. Tienen como meta cumplir dos objetivos (en la mayoría de los juegos de Pokémon): capturar a todas las especies de pokémon disponibles en la región ficticia en donde se encuentra ambientado el juego, y completar así la información de todos los pokémon en el Pokédex; por otro lado, deben entrenarlos y enfrentarlos a otros pokémon pertenecientes a otros entrenadores para demostrar sus habilidades, fortaleza, talento y así convertirse en un Maestro Pokémon. Para lograrlo, los entrenadores pokémon viajan a lo largo y ancho de las regiones del mundo Pokémon, recolectando medallas de gimnasio, que se obtienen tras derrotar a los respectivos líderes de gimnasio, en una batalla en la que tanto el entrenador como el líder de gimnasio enfrentan a sus pokémon para probar sus habilidades especiales en una batalla Pokémon.
+Tipos de Pokémon
+Pokémon Normal Type Icon.svg Normal
+Pokémon Fire Type Icon.svg Fuego
+Pokémon Water Type Icon.svg Agua
+Pokémon Grass Type Icon.svg Planta
+Pokémon Electric Type Icon.svg Eléctrico
+Pokémon Ice Type Icon.svg Hielo
+Pokémon Fighting Type Icon.svg Lucha
+Pokémon Poison Type Icon.svg Veneno
+Pokémon Ground Type Icon.svg Tierra
+	
+Pokémon Flying Type Icon.svg Volador
+Pokémon Psychic Type Icon.svg Psíquico
+Pokémon Bug Type Icon.svg Bicho
+Pokémon Rock Type Icon.svg Roca
+Pokémon Ghost Type Icon.svg Fantasma
+Pokémon Dragon Type Icon.svg Dragón
+Pokémon Dark Type Icon.svg Siniestro
+Pokémon Steel Type Icon.svg Acero
+Pokémon Fairy Type Icon.svg Hada
+Artículo principal: Anexo:Pokémon por tipo
+
+Existen 18 tipos en los que se organiza a los pokémon. Los tipos acero y siniestro fueron agregados en el año 2000, en los juegos Gold, Silver y Crystal y el tipo hada fue agregado el 2013 en los juegos Pokémon X e Y. Los pokémon pueden aprender ataques distintos a los de su tipo. Por ejemplo, Kabutops (Agua/Roca) puede aprender el movimiento Pokémon Giga drenado que es de tipo planta.
+
+Cada pokémon tiene una cantidad determinada de movimientos o ataques que puede aprender. Estos se pueden clasificar por su tipo o elemento (por ejemplo, el ataque trueno es un ataque tipo eléctrico).
+
+Los pokémon también se ordenan y dividen de esta manera, dándole ventajas o desventajas contra otros. Por ejemplo: un pokémon tipo agua tiene más probabilidad de vencer a un pokémon tipo fuego, que uno tipo planta, ya que los ataques de tipo agua apagan el fuego, mientras que los ataques de tipo fuego queman las plantas. A las plantas, por su parte, ya que crecen con el agua, esta no les causa mucho daño. Esta secuencia, se compararía con el popular juego piedra, papel o tijera.
+Pokémon inicial
+Un árbol de Navidad con varios pokémon iniciales, además de Pikachu, Plusle y Minum.
+
+Uno de los aspectos constantes de los videojuegos de Pokémon desde sus inicios con Pokémon Edición Roja y Pokémon Edición Azul (en Occidente) para la consola portátil Game Boy, hasta la última versión, Pokémon Ultra Sol y Ultra Luna para Nintendo 3DS, es que los jugadores, al iniciarse el juego, reciben su primer pokémon como regalo del Profesor Local (esto depende de la región en donde este ambientado el juego), un personaje experto en pokémon.
+
+Los entrenadores reciben un pokémon inicial o principiante para poder comenzar con su trayecto en el juego. La cantidad establecida de pokémon iniciales es de tres, de los cuales los entrenadores pueden elegir uno solo. Siempre son de los tipo agua, tipo fuego y tipo hierba. (un Pokémon por tipo).10​ Por ejemplo, en las versión Pokémon Edición Roja y Pokémon Edición Azul (y su respectivos remakes: Pokémon Rojo Fuego y Pokémon Verde Hoja), el jugador tiene la opción de elegir como su pokémon a Bulbasaur (tipo hierba), Charmander (tipo fuego), y Squirtle (tipo agua).
+
+Sin embargo, en Pokémon Edición Amarilla, el entrenador recibe como su pokémon inicial a Pikachu (un pokémon ratón tipo eléctrico, famoso por ser la mascota de la franquicia). Sin embargo, tras los lanzamientos de Pokémon Edición Roja y Pokémon Edición Azul, Pikachu puede ser obtenido durante su búsqueda en la trayectoria del juego por un solo jugador, algo que no fue posible en ninguna otra entrega de la franquicia, hasta el lanzamiento de Pokémon X y Pokémon Y.11​ Otro aspecto constante es que el rival del jugador, un personaje que también se hace entrenador a la vez que el jugador, elegirá siempre a un pokémon que tenga ventaja sobre el del protagonista. Por ejemplo: si el jugador escoge a un pokémon tipo hierba, el rival escogerá siempre a un pokémon tipo fuego como su pokémon inicial. En Pokémon Edición Amarilla, el rival escoge a Eevee, el cual puede ser evolucionado a un Jolteon, Vaporeon, o Flareon, dependiendo del resultado de la batalla entre el jugador y el rival.
+Pokédex
+Artículo principal: Pokédex
+
+El pokédex en el mundo ficticio de Pokémon, es un dispositivo electrónico que interviene en los videojuegos y la serie de anime. En los juegos, su función es registrar los datos de un pokémon. En el manga y el anime, el Pokédex es una enciclopedia electrónica, la cual proporciona al entrenador información sobre un pokémon que es desconocido con tan solo exponer el pokédex en frente del pokémon.
+
+En los videojuegos un entrenador recibe una pokédex en blanco al iniciar su recorrido. El objetivo es completar la información de todos los pokémon disponibles en la región en donde se encuentre. El entrenador recibirá el nombre y la imagen del pokémon que haya sido encontrado. En Pokémon Red y Blue, el pokédex registra la información de cada pokémon con tan solo verlo. La información más detallada de un pokémon se encuentra disponible después de que el entrenador haya capturado a un pokémon salvaje. Esta información incluye tipo, altura, peso, técnicas, y una descripción breve del pokémon.
+
+Las versiones actuales del pokédex contienen toda la información de los pokémon conocidos. En los juegos de GameCube, Pokémon Colosseum y Pokémon XD: Gale of Darkness, se utiliza el Pokémon Digital Assistant (PDA), que es similar al pokédex.
+
+En la región de Alola, la pokédex es distinta al resto de regiones, pues esta queda implantada en un Rotom, un Pokémon que tiene la cualidad de meterse en electrodomésticos y en otros objetos electrónicos. Esta Pokédex cuenta con lo último en tecnología punta de la región, pues no solo se delimita a registrar entradas de los nuevos Pokémon, también es capaz de comunicarse e interactuar con el jugador, hacer fotos con ella o actuar como mapa para mostrar el punto exacto en el que el jugador se encuentra.
+Videojuegos
+Artículo principal: Anexo:Videojuegos de Pokémon
+Artículo principal: Generaciones Pokémon
+
+Los videojuegos de Pokémon se limitaban en un principio al género RPG. Después de comprobar el éxito de la saga, se han extendido en muchos otros géneros.
+Primera generación
+Artículo principal: Anexo:Pokémon de la primera generación
+Cartuchos de Pokémon Rojo, Azul y Amarillo.
+
+La historia de los videojuegos de Pokémon se inicia con los lanzamientos de Pocket Monsters Aka and Midori (Red y Pokémon Green) en Japón en 1996, para la consola Game Boy. Debido a la popularidad que alcanzaron estos 2 juegos, poco más tarde apareció Pokémon Blue. Las versiones originales de Aka (緑) and Midori nunca han salido a la venta fuera de Japón,12​ sino que internacionalmente se lanzaron Pokémon Red y Blue, videojuegos con las mejoras de Pokémon Blue, pero con las características de los originales Aka y Midori.
+
+La aventura en estas versiones transcurre en la región de Kanto, por lo que el nombre de esta región suele verse asociado a estos videojuegos de la primera generación. El número de pokémon de estas versiones es de 151, desde Bulbasaur hasta Mew.
+
+La tercera versión (cuarta en Japón) de los primeros videojuegos de Pokémon es Pokémon Yellow,13​ el cual fue lanzado el 2 de septiembre de 1998 en Japón, y en Norteamérica el 1 de octubre de 1999. El argumento de este título es muy cercano a la serie de anime.
+
+Luego de esto se realizaron otras subsagas de la franquicia, como las versiones Pokémon Stadium para Nintendo 64,14​ en donde se podían ver en 3D y usar a los pokémon entrenados de los juegos de RPG de Game Boy para ingresarlos al juego y luchar.
+
+    Hay un total de 151 pokémon (de Bulbasaur a Mew).
+    Aparición de 15 tipos distintos.
+    Incorporan un total 165 movimientos.
+    Esta generación abarca del capítulo 1 al 118 del anime.
+    La primera temporada abarca del capítulo 1 al 84.
+    La segunda temporada abarca del capítulo 84 al 118.
+    La primera película así como la Segunda pertenecen a esta generación.
+    Un total de 255 objetos (368 si contamos con los objetos que nos aparecieron o en los que un principio estaban en fase Beta en un principio se tenían pensado que las medallas fuesen alojadas a nuestra mochila y quedaron restos de las medallas que forman parte del código del juego).
+    La mochila solo puede tener 20 objetos al no estar dividida (objetos clave, movimientos curativos, etc.)
+
+Segunda generación
+Artículo principal: Anexo:Pokémon de la segunda generación
+Un Game Boy Color conectado con un cable link versión Pikachu.
+
+En el año 2000 fueron lanzados al mercado los juegos Pokémon Gold y Silver15​16​ para la consola Game Boy Color. En estas versiones aparece una nueva región conocida como Johto,17​ donde se habían descubierto 100 pokémon nuevos (desde Chikorita hasta Celebi), llevando un total de 251 hasta en ese entonces. Johto también escondía misterios como el de las antiguas Ruinas Alpha, o el de la Torre Tin.
+
+En el año 2001 apareció Pokémon Crystal,18​ el primer juego de Pokémon en donde se puede elegir a un personaje femenino como protagonista.
+
+    Añaden un total de 100 nuevas especies Pokémon (de Chikorita a Celebi) haciendo un total de 251.
+    Incorporan un total de 81 movimientos.
+    Aparición del tipo acero y del tipo siniestro.
+    Ciclo de día y noche.
+    Ha juntado 2 regiones en 1 (Kanto y Johto).
+    Introdujo las animaciones en los pokémon (pokémon cristal).
+    De lo que al anime se refiere, esta generación abarca del capítulo 119 al 276 y está ambientada en Johto.
+    La tercera temporada abarca del capítulo 119 al 159.
+    La cuarta temporada abarca del capítulo 160 al 211.
+    La quinta temporada abarca del capítulo del 212 al 276.
+    Las películas que pertenecen a esta generación son la tercera y la cuarta.
+    Un total de 255 objetos (258 si contamos algunos de los objetos que formaron parte de la fase beta del videojuego).
+    La mochila tiene bolsillos, por lo cual cada objeto tiene su lugar (objetos curativos, pokeballs, movimientos, etc.), y al igual que en la Primera Generación, esta mochila almacena 20 objetos.
+
+Tercera generación
+Artículo principal: Anexo:Pokémon de la tercera generación
+
+En el año 2003 hacen su aparición los juegos Pokémon Ruby y Sapphire para la consola Game Boy Advance.19​20​ En estas nuevas versiones aparece una nueva región llamada Hoenn, y 135 nuevas especies de pokémon (desde Treecko hasta Deoxys), elevando el total de hasta 386 pokémon. Se ha incorporado el concepto de las batallas de equipo de 2 contra 2, los concursos pokémon y los Pokéblock (Pokécubos en España), así como nuevas habilidades especiales.
+
+En octubre de 2004 salieron a la venta Pokémon FireRed y LeafGreen,21​22​ siendo un remake de los primeros juegos, Pokémon Red y Green. El juego se considera parte de la tercera generación debido a que los movimientos de los pokémon, objetos y el resto de características han sido incorporados.
+
+En el año 2005 salió a la venta Pokémon Emerald.23​ A diferencia de Ruby y Sapphire, en Pokémon Emerald es posible enfrentarse a los dos equipos enemigos existentes (el Equipo Aqua y el Equipo Magma), y nuevos desafíos como la Batalla de la Frontera (Battle Frontier).
+
+    Añaden un total de 135 de nuevas especies Pokémon (de Treecko a Deoxys), haciendo un total 386.
+    Añaden 103 movimientos nuevos con un total de 354.
+    La aparición de los combates dobles.
+    El uso del E-reader un dispositivo de reconocimiento de cartas que en el juego desencadena eventos.
+    La aparición de las naturalezas en un Pokémon.
+    La aparición de las habilidades en un pokémon contando con un total de 77.
+    De lo que al anime se refiere, esta generación abarca del capítulo (277 al 469) y está ambientado en Hoenn.
+    La sexta temporada abarca del capítulo 277 al 316.
+    La séptima temporada abarca del capítulo 317 al 368.
+    La octava temporada abarca del capítulo 369 al 422.
+    La novena temporada abarca del capítulo 423 al episodio 469.
+    Entre las películas, la quinta, la sexta y la séptima representan y pertenecen a la tercera generación.
+    Un total de 376 objetos (ediciones de la Game Boy Advance) (389 objetos, si contamos con los objetos que fueron desechados durante la fase beta).
+    Un total de 547 objetos (edición de Pokémon Colosseum).
+    Un total de 593 objetos (edición de Pokémon XD).
+    La mochila puede almacenar un máximo de 30 objetos. El videojuego incorpora consigo un compartimento nunca antes visto, con la incorporación de las bayas.
+
+Spin-offs
+
+Entre la tercera y cuarta generación (2005-2006), aparecieron algunos videojuegos de Pokémon que forman parte de la categoría de spin-offs.
+
+En el 2005 salió a la venta Pokémon Dash, el cual fue uno de los primeros videojuegos de Pokémon para la consola Nintendo DS.
+
+El 10 de noviembre de 2006 hicieron su aparición los juegos Pokémon Mystery Dungeon, Blue Rescue Team para Nintendo DS24​ y Red Rescue Team para Game Boy Advance.25​ En estas versiones el jugador es un pokémon. Él y sus compañeros pokémon, conforman un equipo de rescate, y tienen como objetivo rescatar al mundo de desastres naturales. Las secuelas de estas versiones, las cuales forman parte de la cuarta generación, son Pokemon Mystery Dungeon: Explorers of Time y Explorers of Darkness, que salieron a la venta el 20 de abril de 2008.26​27​
+Cuarta generación
+Artículo principal: Anexo:Pokémon de la cuarta generación
+Mapa que muestra la forma de las regiones del mundo Pokémon, que se asemejan geográficamente a diferentes partes del país de Japón.
+
+Pokémon ediciones Diamante y Perla fueron lanzadas en el 2006 para Nintendo DS, haciendo un total de 489.
+
+En estas versiones aparece una región llamada Sinnoh (Shinou en japonés), y se han incluido 107 especies de Pokémon (desde Turtwig hasta Arceus) alcanzando un total hasta ese momento de 493 pokémon.28​ Los gráficos del juego son escenarios en tres dimensiones, y los personajes en 2D, al igual de la mayoría de objetos con los que interactuar.
+
+Pokémon Platinum salió a la venta el 13 de septiembre de 2008 en Japón29​ y es un remake de Pokémon Diamond y Pearl, añadiendo nuevas características e historia. Los títulos spin-off de la cuarta generación, Pokémon Mystery Dungeon: Explorers of Time y Explorers of Darkness, salieron a la venta el 20 de abril de 2008. De igual manera, Pokémon Battle Revolution para Wii, el cual dispone de conectividad Wi-Fi.30​
+
+El 12 de septiembre de 2009 (14 de marzo de 2010 en América y 26 de marzo de 2010 en Europa) salió a la venta en Japón los remakes de los juegos Pokémon Gold y Silver para la consola Nintendo DS bajo el título Pokémon HeartGold y SoulSilver.31​
+
+    Añaden un total de 107 nuevas especies Pokémon (de Turtwig a Arceus), haciendo un total de 493.
+    Añaden un total de 117 movimientos con un total de 467.
+    Incorporan 47 habilidades nuevas con un total de 123.
+    Vuelve el ciclo de día noche de la segunda generación.
+    De lo que al anime se refiere, esta generación abarca del capítulo 470 al 660 y está ambientada en Sinnoh.
+    La décima temporada abarca del capítulo 470 a la 521.
+    La undécima temporada abarca del capítulo 522 a la 573.
+    La duodécima temporada abarca del capítulo 574 a la 626.
+    La decimotercera temporada abarca del capítulo 627 a la 660.
+    Las películas octava, novena, décima, undécima, duodécima y decimotercera pertenecen a esta generación.
+    Un total de 536 objetos (547 objetos sin contamos con los que fueron desechados durante la elaboración y otras que se quedaron en el código del juego pero fueron solo una versión beta).
+    La mochila de esta generación puede almacenar todos los objetos del videojuego.
+
+Quinta generación
+Artículo principal: Anexo:Pokémon de la quinta generación
+
+La quinta generación de juegos dio paso con el lanzamiento de las versiones para la consola portátil Nintendo DS, Pokémon Edición Negra y Edición Blanca, que fueron revelados el 9 de abril de 2010 en el sitio web de Pokémon Japón, trayendo la región Teselia (Isshun en japonés y Unova en inglés), y una cifra de 156 Pokémon nuevos (desde Victini hasta Genesect), completando un total de 649 pokémon hasta la fecha. Su lanzamiento al mercado japonés fue el 18 de septiembre de 2010, en Europa el 4 de marzo de 2011 y en América el 6 de marzo de 2011.32​
+
+En el 2012 son lanzados los videojuegos Pokémon Negro y Blanco 2, los cuales suceden 2 años después de Blanco y Negro, haciendo un total de 679.
+
+El 15 de agosto de 2013 salió Pokémon Rumble U para Wii U.33​
+
+    Incorporan un total de 156 especies Pokémon (de Victini hasta Genesect), haciendo un total de 649.
+    Añaden 92 movimientos nuevos con un total de 559.
+    Incorporan 41 habilidades nuevas con un total de 161.
+    Incorporación de los combates triples y rotatorios.
+    Se puede modificar la dificultad del juego (Blanco y Negro 2).
+    De lo que al anime se refiere, esta generación abarca del capítulo 661 al 804 y está ambientada en Teselia.
+    La decimocuarta temporada abarca del episodio 661 al 710.
+    La decimoquinta temporada abarca del episodio 711 al 759.
+    La decimosexta temporada abarca del episodio 760 al 804.
+    Las películas decimocuarta, decimoquinta y decimosexta pertenecen a esta generación.
+    Un total de 622 objetos (Pokémon Blanco y Negro).
+    Un total de 638 objetos (Pokémon Blanco y Negro 2).
+    La mochila de este videojuego puede almacenar todos los objetos, y en Blanco y Negro 2 existe un compartimiento extra, en el cual podemos almacenar lo que nosotros queramos.
+
+Sexta generación
+Artículo principal: Anexo:Pokémon de la sexta generación
+
+El 8 de enero de 2013 fueron anunciados Pokémon X e Y,34​ que fueron lanzados el 12 de octubre del mismo año.33​ Se desarrolla en la región de Kalos. Se han añadido 69 Pokémon nuevos (desde Chespin hasta Zygarde), sumando un total de 718 pokémon, posteriormente se añadirían 3 nuevos pokémon (Diancie, Hoopa y Volcanion), completando así 721 especies de pokémon. Se han añadido las megaevoluciones y el tipo hada, que es supereficaz contra el tipo dragón.35​
+
+Estaba previsto que el lanzamiento del Banco de Pokémon y el Poké Trasladador para Nintendo 3DS fuera el 27 de diciembre de 2013, pero al final se retrasó debido al tráfico elevado de Nintendo Network.36​ Ambos juegos están disponibles desde el 21 de enero en Japón,37​ el 5 de febrero en América y el 4 de febrero en Europa, Australia y Nueva Zelanda.38​
+
+El tiempo para conseguir pases gratuitos se alargó hasta el 21 de febrero en Japón37​ y el 14 de marzo en Europa, América, Australia y Nueva Zelanda.38​
+
+El 7 de mayo de 2014 fueron anunciados Pokémon Rubí Omega y Pokémon Zafiro Alfa, remakes de Pokémon Rubí y Zafiro, los cuales fueron lanzados a finales de noviembre del mismo año.
+
+    Añade un total de 71 nuevas especies Pokémon (de Chespin a Volcanion), haciendo un total de 721.
+    Incorporan el tipo hada.
+    Incorporan la Megaevolución.
+    Incorporan la aparición de Pokémon salvajes por hordas.
+    Incorporan los combates en el cielo consisten en combates que puedan volar o tengan la habilidad levitación.
+    Un total de 62 nuevos movimientos con un total de 621.
+    Un total de 27 habilidades nuevas con un total de 191.
+    De lo que al anime se refiere, esta generación abarca del capítulo 805 al 950 y está ambientada en Kalos.
+    La decimoseptima temporada abarca de los capítulos 805 al 853.
+    La decimoctava temporada abarca de los capítulos 854 al 896.
+    La decimonovena temporada abarca de los capítulos 897 al 950.
+    Las películas decimoséptima, decimoctava y decimonovena pertenecen a esta generación.
+    Un total de 722 objetos (Pokémon X e Y) (740 si contamos con los que quedaron desechados, gran parte del código se conforma de objetos que el jugador no puede obtener ni interactuar con ellos).
+    Un total de 775 objetos (Pokémon Rubí Omega y Zafiro Alfa) (781 si contamos con algunos objetos que al igual que en Pokémon X e Y los desecharon, al ser objetos con los que no puedes interactuar ni obtener).
+    La mochila de esta generación puede almacenar todos los objetos del videojuego, en esta generación podemos personalizar la bolsa de nuestro personaje.
+
+Séptima generación
+Artículo principal: Anexo:Pokémon de la séptima generación
+
+El 26 de febrero de 2016, y celebrando los 20 años de la salida del primer juego de la franquicia, fueron anunciados Pokémon Sol y Luna, que fueron lanzados el 18 de noviembre de 2016 (23 de noviembre en Europa) e iniciaron la séptima generación. Ambos juegos son compatibles con Nintendo 3DS, Nintendo 2DS, New Nintendo 3DS y New Nintendo 2DS. Fueron los primeros juegos de la franquicia en incluir los idiomas chino tradicional y chino simplificado. La región en la que transcurre la historia es "Alola", en esta ocasión se trata de un archipiélago formado por cuatro islas y una artificial. El juego está repleto de leyendas y misterios que crean un folklore de una profundidad que no se había visto anteriormente en la saga. Muchos medios catalogaron Alola como la región mejor ambientada de la franquicia, de hecho, "Sol y Luna" se llevaron ante gran variedad de medios de la crítica mundial el "galardón" de "mejor juego de la saga". 39​40​41​
+
+El 6 de junio de 2017, durante un "Pokémon Direct" en el que además se presentó Pokkén Tournament DX para Nintendo Switch y la versión para consola virtual de Nintendo 3DS de los clásicos Pokémon Oro y Plata, Game Freak anunció oficialmente dos nuevos títulos que continuarían la séptima generación de la franquicia, Pokémon Ultrasol y Ultraluna, los cuales salieron a la venta el 17 de noviembre de 2017 en todo el mundo. Estas nuevas ediciones son, de nuevo, jugables en todas las consolas de la familia Nintendo 3DS e incluyen nuevos Pokémon, nuevas funciones, una historia alternativa y una región de Alola redefinida con nuevas zonas, entre otras novedades. 42​
+
+Fue también durante esta generación en la que, en verano de 2016, ocurrió el boom ocasionado por la salida de la famosa aplicación de móviles Pokémon GO, hecho que propulsó las ventas de Pokémon Sol y Luna, que fueron los juegos que más rápido vendieron sus copias en la vida de la consola Nintendo 3DS en su primera semana y recaudaron más de 15 millones de ventas en tan solo su primer año (dato que a Pokémon X e Y, primer juego de la anterior generación, le costó casi 4 años alcanzar). Game Freak, vio una gran oportunidad en esto y decidió aprovechar el fenómeno, por ello, se propusieron reinventar la franquicia en un nuevo juego que usase las ideas y mecánicas de Pokémon GO, creando así el que sería el primer juego de la saga principal para una consola de sobremesa, Nintendo Switch.43​ Pokémon Let's Go, Pikachu! y Let's Go, Eevee! salieron finalmente a la venta el 16 de noviembre de 2018, estos juegos, según su director, Junichi Masuda, son los primeros de una rama más casual que pretende atraer nuevos jugadores e introducirlos en la saga.44​
+
+    Esta generación incorpora, 88 nuevas especies de Pokémon (desde Rowlet hasta Melmetal), haciendo un total de 809.
+    Incorporan 106 movimientos nuevos con un total de 742.
+    Incorporan 44 habilidades nuevas con un total de 233.
+    En Pokémon Sol y Luna, Ultrasol y Ultraluna la Pokédex es un Rotom. Además no hay gimnasios, hay pruebas insulares.
+    Introducen las primeras Formas regionales que se adaptan al clima de Alola.
+    Nueva modalidad de los Pokémon, los Ultraentes.
+    Introducen los Movimientos Z.
+    Introducen los Pokémon Dominantes, Pokémon con tamaño y fuerza superior al resto.
+    Puedes navegar por el Ultraespacio y visitar otras dimensiones del mundo Pokémon (en Pokémon Ultrasol y Ultraluna).
+    RotomDex analiza los Pokémon para registrarlos en la Pokédex durante los combates (en Pokémon Ultrasol y Ultraluna).
+    En esta generación los Pokémon salvajes pueden llamar a un aliado.
+    En esta generación las estadísticas están representadas en PC.
+    Remueven por completo las MO (Movimientos ocultos) para introducir las Pokémonturas en Alola, y las Técnicas Secretas en Kanto.
+    De lo que al anime se refiere, esta generación abarca del capítulo 951 al 1096 y está ambientado en Alola.
+    La vigésima temporada abarca del capítulo 951 al 993.
+    La vigésimo primera temporada abarca del capítulo 994 al 1042.
+    La vigésimo segunda temporada abarca del capítulo 1053 al 1096.
+    Las películas vigésima, vigésimo primera y vigésimo segunda pertenecen a esta generación.
+    Un total de 923 objetos (En Pokémon Sol y Luna).
+    Un total de 959 objetos (En Pokémon Ultrasol y Ultraluna).
+    Un total de 70 objetos (En Let's Go!)
+    La mochila del juego puede almacenar todos los objetos del videojuego, además cuenta con un compartimento exclusivo para los Cristales Z y para "Poderes Rotom" (en Pokémon Ultrasol y Ultraluna).
+    Los combates no son aleatorios (Solo en Let's Go!)
+
+Octava generación
+Artículo principal: Anexo:Pokémon de la octava generación
+
+El Pokémon Direct emitido el 27 de febrero de 2019 dio a conocer los títulos de los primeros juegos de octava generación, Pokémon espada y Pokémon escudo. Durante el directo de 7 minutos se mostraron algunos lugares de la nueva región, llamada "Galar", los nuevos Pokémon iniciales, la vuelta de los clásicos gimnasios y el avance gráfico que suponen estos nuevos videojuegos.45​ El juego será lanzado a finales de este año para la consola Nintendo Switch. Tras el reciente pokémon direct emitido el 6 de julio,se ha oficiado la fecha de salida de las nuevas ediciones de pokémon siendo el 15 de noviembre de 2019.
+
+    Esta generación incorpora, 98 nuevas especies de pokémon (desde Grookey hasta Enamorus) Haciendo un total de 905
+    en el parche 1.1.0 incorporan slowpoke forma galar
+    en el parche 1.2.0 incorporan 102 pokémon haciendo un total de 537 además de tener una nueva isla explorable con el contenido descargable Isla de la armadura 22 nuevos movimientos y 2nuevas habilidades
+    en el parche 1.3.0 incorporaron 5 nuevos pokémon 8 movimientos nuevos 7 habilidades nuevas vuelven de nuevo 119 pokémon anteriormente existentes haciendo un total de 656 y finalmente una nueva zona explorable por el contenido descargable Las nieves de la corona
+    Es la primera generación en no incluir todos los pokémon jugables existentes en una entrega de pokémon de la saga principal
+    Todos los pokémon en el equipo obtienen experiencia
+    Los movimientos Z y las megapiedras han sido removidas y reemplazadas por las incursiones gigamax
+    De lo que al anime se refiere, esta generación abarca del capítulo ? al ? y está ambientado en todas las regiones existentes lo que va a suponer un reinicio en la serie animada de pokémon profundizando en muchos aspectos olvidados y que piensan implemtentar en esta serie añadiendo una capa de profundidad a la obra original.
+    la Vigésimo tercera temporada abarca del capítulo 1088 al 1135.
+    la vigésima cuarta temporada abarca del capítulo 1036 al ??
+    La película vigésima tercera pertenece a esta generación.
+    regresan las medallas de gimnasio en este videojuego haciendo un total de 11 (2 de los cuales son exclusivos y cambian dependiendo la versión a la que juegas)
+    151 recetas de curry muchas de las cuales son las mismas(se dividen en seco agrio picante y dulce amargo) pero con efectos diferentes
+    Incorporan 81 nuevos movimientos haciendo un total de 890
+    Incorporan 54 nuevas habilidades haciendo un total de 258
+    Un total de 1606 objetos (muchos de los cuales no se encuentran en el juego y otros son accesibles mediante trucos)
+    Los ingredientes de curry tienen su propio compartimento en la mochila
+    Los fósiles cuentan ya con su propio compartimento en la mochila
+    Los remakes de diamante y perla solamente tiene los 493 pokémon originales
+    el parque compi es reemplazado por el parque hansa
+    el subsuelo es reemplazado por el gran subsuelo
+    usando el mapa y si disponemos del movimiento vuelo podremos volar por las ciudades de sinnoh
+    con el lector DS (objeto clave) podemos hacer que el soundtrack de los remakes de diamante perla vuelvan a sonar como los originales
+
+Novena generación
+
+En el pokémon presents que dio lugar e 27 de febrero del 2022 cuyos nombres son pokémon escarlata (ポケットモンスター スカーレット) y pokémon púrpura (ポケットモンスター バイオレット) que han sido anunciadas para la consola híbrida Nintendo switch.
+Medios relacionados
+Anime
+Artículo principal: Pokémon (anime)
+
+Las serie y películas de Pokémon, forman un anime metaserial que se basa en la saga de videojuegos (a excepción de Pokémon Yellow). La serie sigue las aventuras de Ash Ketchum46​ (サトシ Satoshi en la versión original) y su amigo Brock (hasta la decimocuarta temporada), Ash desea convertirse en un Maestro Pokémon y Brock en el mejor criador y que en compañía de sus amigos viajan alrededor del mundo ficticio de Pokémon.46​ La versión original de la serie se llama Pocket Monsters, o simplemente Pokémon en los países occidentales (a menudo llamado Pokémon: Gotta Catch 'Em All para distinguirlo de las demás temporadas) Ash inicia su primer día de entrenador Pokémon con su primer (y propio) pokémon, llamado Pikachu, a diferencia de los videojuegos en donde el entrenador puede escoger a un Bulbasaur, Charmander, o Squirtle.
+
+La serie de anime fue estrenada en Japón el 1 de abril de 1997 en el canal TV Tokyo47​48​ y fue adaptado a la cultura occidental por 4Kids Entertainment hasta noviembre de 2005. Actualmente Pokémon USA se encarga de la producción y distribución de la serie de anime en occidente.
+Pokémon Trading Card Game
+Artículo principal: Pokémon Trading Card Game
+
+Pokémon Trading Card Game es un juego de cartas coleccionables basado de la serie de anime y videojuegos. Los jugadores emplean estrategias y usan las fortalezas y debilidades de sus cartas para derrotar a su oponente por knock out.49​ El juego fue lanzado por primera vez en Norteamérica por Wizards Of The Coast en 1999.50​ Sin embargo, con el lanzamiento de Pokémon Rubí y Zafiro para Game Boy Advance, Wizards Of The Coast perdió la licencia para publicar el juego y Nintendo y Pokémon USA decidieron producir el juego por su cuenta.50​
+Manga
+Artículo principal: Pokémon (manga)
+
+El manga de Pokémon es un conjunto de historias, algunas de las cuales están basadas en los videojuegos, la serie de anime y sus películas.47​
+
+El manga es publicado en Japón por Shōgakukan, en España por Norma Editorial, en Estados Unidos por Viz Media51​ y en Singapur y China por Chuang Yi.
+Críticas y controversias
+Moralidad
+
+Pokémon ha sido criticado por miembros de las religiones cristiana, judía e islámica. Mientras algunos seguimientos de la religión cristiana han acusado a Pokémon de involucrar el ocultismo y la violencia así como el concepto de la "Evolución Pokémon" (que algunos relacionan con la teoría de la evolución) que supuestamente viola el argumento de la creación según el Génesis;52​ por otra parte, en la cadena Sat2000 de la Conferencia Episcopal Italiana se dijo que los videojuegos y las tarjetas de Pokémon están "por completo en la imaginación" y no tienen ningún "efecto secundario moral dañino".53​ Pokémon también ha sido acusado de promover las peleas de gallos54​55​ y el materialismo.56​ En el 2001, Arabia Saudita prohibió los juegos y cartas de Pokémon, alegando que la franquicia promovió el sionismo en la violación de la doctrina musulmana.57​
+Salud
+Artículo principal: Anexo:Episodios no emitidos de Pokémon
+
+El 16 de diciembre de 1997 en Japón, 685 niños fueron hospitalizados debido a que fueron víctimas de ataques epilépticos por haber presenciado el episodio de Pokémon Dennō Senshi Porygon (episodio n°38 de la primera temporada en la versión original de la serie). Se había descubierto que el cambio rápido entre los colores rojo y azul en una escena provocó las convulsiones58​59​
+
+El incidente ocurrido con este episodio fue parodiado en la serie Los Simpson en el episodio "Treinta minutos sobre Tokio" y en la serie South Park en el episodio "Chinpokomon".60​61​
+Monster in My Pocket
+
+En marzo de 2000 Morrison Entertainment Group, una empresa desarrolladora de juguetes con sede en Manhattan Beach (California), demandó a Nintendo, afirmando que los personajes de Pokémon eran "confusamente similares" al juego Monster in My Pocket. Un juez dictaminó que no hubo infracción, por lo que Morrison apeló la sentencia en noviembre de 2001.62​
+Impacto en la cultura popular
+
+Pokémon, al convertirse en una franquicia muy conocida, ha dejado su huella en la cultura popular. Los personajes de Pokémon se han convertido en iconos en la sociedad. Como por ejemplo, se han visto 2 globos gigantes de Pikachu en el Desfile del Día de Acción de gracias de Macy's, que se realiza en la ciudad de Nueva York. Se ha visto también un Boeing 747-400 al estilo Pokémon el cual lleva miles de artículos referentes a la franquicia. Se han inaugurado 2 parques de diversiones de Pokémon, uno en Nagoya en el 2005 y otro en Taipéi en el 2006. En el show de Comedy Central, Drawn Together (La casa de los dibujos), un personaje llamado Ling-Ling es una parodia directa de Pikachu.63​ Otras series como ReBoot, Los Simpsons, South Park, The Grim Adventures of Billy & Mandy, y All Grown Up! han hecho varias referencias sobre Pokémon. Pokémon también apareció en la portada de la revista Time en el año 1999. 64​65​
+
+En noviembre de 2001 Nintendo abrió una tienda llamada Pokémon Center en el Rockefeller Center66​ de la ciudad de Nueva York, después de los dos otros almacenes de Pokémon en Tokio y Osaka, edificios ficticios donde los entrenadores envían a sus Pokémon para ser curados.67​ La tienda Pokémon tiene un total de dos plantas, con artículos que van desde camisas hasta muñecos de peluche de Pokémon.68​ La tienda también ofreció una "Máquina de Distribución Pokémon" en donde los jugadores colocaban su juego para recibir un huevo de un Pokémon. La tienda también tenía mesas que estaban abiertas para jugadores de Pokémon Trading Card Game en donde entre ellos o un empleado se batían en duelos. El almacén fue cerrado y sustituido por Nintendo World Store el 14 de mayo de 2005.69​
+
+En verano de 2016, la aplicación para dispositivos móviles, Pokémon GO salió al mercado y revivió el "boom" que la franquicia vivió al inicio del 2000 cuando el videojuego y el anime de este llegaron a todo el mundo. Pokémon GO inició un fenómeno que se volvió viral en las redes y generó un gran aumento en las acciones en bolsa de Game Freak, Niantic y Nintendo.70​ El éxito de la aplicación realzó el nombre de la franquicia y ayudó más tarde al éxito mundial en ventas de los videojuegos para la consola Nintendo 3DS, Pokémon Sol y Luna. 71​ 

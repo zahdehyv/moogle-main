@@ -1,0 +1,114 @@
+.results {
+    color: beige;
+    object-position: 35%;
+    position: relative;
+}
+
+.item .title {
+    font-size: large;
+    font-weight: bold;
+    color: beige;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+}
+
+.snippet {
+    color: beige;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    text-size-adjust: inherit;
+}
+
+body {
+    background-color: rgb(30, 30, 30);
+}
+
+#text {
+    color: beige;
+}
+
+#searchentry {
+    background-color: rgb(36, 36, 36);
+    color: gray;
+    border-style: hidden;
+    border-radius: 23px;
+    height: 36px;
+    border: 0px;
+    width: 25%;
+    text-indent: 3%;
+    min-width: 200px;
+}
+
+#buttonentry {
+    background-color: transparent;
+    color: gray;
+    border-style: hidden;
+    height: 36px;
+    margin-left: -90px;
+    border-bottom-left-radius: 23px;
+    border-top-left-radius: 23px;
+    border-bottom-right-radius: 23px;
+    border-top-right-radius: 23px;
+}
+
+#refreshbutton {
+    background-color: transparent;
+    color: gray;
+    border-style: hidden;
+    border-color: grey;
+    height: 36px;
+    border-bottom-left-radius: 23px;
+    border-top-left-radius: 23px;
+    border-bottom-right-radius: 23px;
+    border-top-right-radius: 23px;
+    margin-left: 80%;
+}
+
+.boxofresult {
+    background-color: rgba(41, 41, 41, 0.349);
+    border-radius: 15px;
+    text-align: left;
+}
+
+#coincidence {
+    color: rgb(182, 255, 0);
+}
+
+#enlacesugg {
+    color: crimson;
+}
+
+#enlaceresult {
+    color: rgb(255, 81, 0);
+}
+
+
+/* #one {
+    color: rgb(114, 243, 9);
+}
+
+#two {
+    color: rgb(255, 51, 0);
+}
+
+#three {
+    color: rgb(83, 226, 27);
+}
+
+#four {
+    color: rgb(255, 0, 179);
+}
+
+#five {
+    color: rgb(255, 251, 0);
+}
+
+#six {
+    color: rgb(76, 0, 255);
+}
+
+#seven {
+    color: rgb(251, 255, 0);
+} */

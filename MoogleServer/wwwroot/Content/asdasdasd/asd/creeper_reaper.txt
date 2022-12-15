@@ -1,0 +1,11 @@
+Creeper (virus)
+Ir a la navegación
+Ir a la búsqueda
+Imagen de aviso del programa Creeper dentro de un computador.
+
+Creeper (enredadera, en inglés) fue un programa informático experimental autorreplicante escrito en 1971 por Bob Thomas Morris, de BBN Technologies. No estaba diseñado para causar daño sino para demostrar que un programa podía ser capaz de recorrer la red saltando de un ordenador a otro mientras realizaba una tarea concreta. A pesar de no ser dañino ni destructivo, es comúnmente aceptado como el primer virus informático por su capacidad de autorreplicarse y propagarse a través de una red de ordenadores.1​2​3​4​
+Creeper
+
+Creeper se propagaba a través de ARPANET replicándose en equipos DEC PDP-10 que utilizaban el sistema operativo TENEX, que en aquel momento eran los ordenadores más comunes en las universidades y centros de investigación interconectados mediante ARPANET. El programa se copiaba a sí mismo al sistema objetivo, en el cual mostraba el mensaje «I'm the creeper, catch me if you can!» («Soy la enredadera, atrápame si puedes!»). Creeper comenzaba a imprimir un archivo, pero se detenía antes de terminar y saltaba a otro sistema TENEX, eliminándose a sí mismo del ordenador anterior.1​2​3​4​
+Reaper
+Para poder eliminar Creeper de los sistemas infectados, Ray Tomlinson diseñó el que podría considerarse el primer antivirus de la historia, denominado Reaper (podadora, en inglés).1​2​3​4​ 
