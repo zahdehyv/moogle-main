@@ -6,8 +6,8 @@
 > Facultad de Matemática y Computación - Universidad de La Habana.
 > Cursos 2021, 2022.
 >
->- Estudiante Carlos Mauricio Reyes Escudero
->- Grupo C111
+>- Estudiante: Carlos Mauricio Reyes Escudero
+>- Grupo: C111
 
 ## El Inicio
 
